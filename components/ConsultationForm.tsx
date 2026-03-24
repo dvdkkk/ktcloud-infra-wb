@@ -144,7 +144,7 @@ export const ConsultationForm: React.FC = () => {
                       <span className="w-2 h-2 rounded-full bg-red-600 animate-pulse"></span>
                   </h3>
                   
-                  <input type="hidden" name="_form_id" value="c6397110de9deec24d35de40e8d1e38b" />
+                  <input type="hidden" name="_form_id" value="889e311d893fb13e40e8f07d4072ed85" />
                   
                   <div className="space-y-0.5 md:space-y-1">
                       <label className="text-xs font-bold text-gray-700 ml-1">과정명</label>
