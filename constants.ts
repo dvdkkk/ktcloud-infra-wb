@@ -9,7 +9,7 @@ export const COURSES: Course[] = [
     subTitle: '확장성과 안정성을 구축하는 인프라 전문가 과정',
     description: '100% 온라인 실시간 강의로 진행되는 KT Cloud 클라우드 엔지니어링 전문가 과정입니다. 리눅스, 네트워크, 데이터베이스, 쿠버네티스, AWS, 오픈스택 등 클라우드 인프라의 핵심 기술을 마스터합니다.',
     duration: '7개월 과정',
-    schedule: '26년 05월 12일 ~ 12월 08일',
+    schedule: '27.1.12 ~ 27.8.3',
     classTime: '평일 09:00~18:00 (1일 8시간)',
     capacity: '26명',
     locations: '100% 온라인 실시간',
